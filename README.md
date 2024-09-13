@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+## Screenshots
+<p>
+  <img src="https://raw.githubusercontent.com/thuanyg/plantshop_demo/master/screenshots/screenshot01.png" width="250" />
+  <img src="https://raw.githubusercontent.com/thuanyg/plantshop_demo/master/screenshots/screenshot02.png" width="250" />
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
